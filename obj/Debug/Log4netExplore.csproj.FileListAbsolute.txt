@@ -1,0 +1,10 @@
+d:\documents\visual studio 2013\Projects\Log4netExplore\Log4netExplore\bin\Debug\Log4netExplore.exe.config
+d:\documents\visual studio 2013\Projects\Log4netExplore\Log4netExplore\bin\Debug\Log4netExplore.exe
+d:\documents\visual studio 2013\Projects\Log4netExplore\Log4netExplore\bin\Debug\Log4netExplore.pdb
+d:\documents\visual studio 2013\Projects\Log4netExplore\Log4netExplore\obj\Debug\Log4netExplore.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\Log4netExplore\Log4netExplore\obj\Debug\Log4netExplore.exe
+d:\documents\visual studio 2013\Projects\Log4netExplore\Log4netExplore\obj\Debug\Log4netExplore.pdb
+D:\Documents\Visual Studio 2013\Projects\Log4netExplore\Log4netExplore\bin\Debug\log4net.dll
+D:\Documents\Visual Studio 2013\Projects\Log4netExplore\Log4netExplore\bin\Debug\log4net.pdb
+D:\Documents\Visual Studio 2013\Projects\Log4netExplore\Log4netExplore\bin\Debug\log4net.xml
+D:\Documents\Visual Studio 2013\Projects\Log4netExplore\Log4netExplore\bin\Debug\MySql.Data.dll

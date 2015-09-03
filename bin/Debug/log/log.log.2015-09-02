@@ -1,0 +1,57 @@
+
+ 
+记录时间：2015-09-02 17:12:16,417 
+线程ID:[1] 
+日志级别：  INFO  
+出错类：Log4netExplore.Program property: [(null)] - 
+错误描述：进入Log4netExplore应用程序.
+ 
+
+ 
+记录时间：2015-09-02 17:12:16,458 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：Log4netExplore.Program property: [(null)] - 
+错误描述：System.DivideByZeroException: 尝试除以零。
+   在 Log4netExplore.Program.Main(String[] args) 位置 d:\Documents\Visual Studio 2013\Projects\Log4netExplore\Log4netExplore\Program.cs:行号 19
+ 
+
+ 
+记录时间：2015-09-02 17:12:16,464 
+线程ID:[1] 
+日志级别：  INFO  
+出错类：Log4netExplore.Program property: [(null)] - 
+错误描述：退出Log4netExplore应用程序.
+ 
+
+ 
+记录时间：2015-09-02 17:13:39,759 
+线程ID:[1] 
+日志级别：  INFO  
+出错类：Log4netExplore.Program property: [(null)] - 
+错误描述：进入Log4netExplore应用程序.
+ 
+
+ 
+记录时间：2015-09-02 17:13:39,808 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：Log4netExplore.Program property: [(null)] - 
+错误描述：System.DivideByZeroException: 尝试除以零。
+   在 Log4netExplore.Program.Main(String[] args) 位置 d:\Documents\Visual Studio 2013\Projects\Log4netExplore\Log4netExplore\Program.cs:行号 19
+ 
+
+ 
+记录时间：2015-09-02 17:13:39,814 
+线程ID:[1] 
+日志级别：  INFO  
+出错类：Log4netExplore.Program property: [(null)] - 
+错误描述：退出Log4netExplore应用程序.
+ 
+2015-09-02 17:14:17 INFO (null) [(null).(null)()]- 进入Log4netExplore应用程序.
+
+2015-09-02 17:14:17 ERROR (null) [(null).(null)()]- System.DivideByZeroException: 尝试除以零。
+   在 Log4netExplore.Program.Main(String[] args) 位置 d:\Documents\Visual Studio 2013\Projects\Log4netExplore\Log4netExplore\Program.cs:行号 19
+
+2015-09-02 17:14:17 INFO (null) [(null).(null)()]- 退出Log4netExplore应用程序.
+

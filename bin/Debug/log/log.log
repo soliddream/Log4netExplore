@@ -1,0 +1,10 @@
+2015-09-04 00:06:24 INFO  Log4netExplore.Program.Main - 进入Log4netExplore应用程序.
+
+2015-09-04 00:06:25 INFO  Log4netExplore.Bar.DoIt - exec divide by zero
+
+2015-09-04 00:06:25 ERROR Log4netExplore.Program.Main - System.DivideByZeroException: 尝试除以零。
+   在 Log4netExplore.Bar.DoIt() 位置 d:\Documents\Visual Studio 2013\Projects\Log4netExplore\Log4netExplore\Bar.cs:行号 22
+   在 Log4netExplore.Program.Main(String[] args) 位置 d:\Documents\Visual Studio 2013\Projects\Log4netExplore\Log4netExplore\Program.cs:行号 26
+
+2015-09-04 00:06:25 INFO  Log4netExplore.Program.Main - 退出Log4netExplore应用程序.
+
